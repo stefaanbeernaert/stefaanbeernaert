@@ -3,7 +3,7 @@
 
 
 
-- 🏢 I'm currently learning **Javascript** & **Mysql**.
+- 🏢 I'm currently learning **Javascript** & **sql**.
 - 🌱 My main goal is to become a **Full Stack Developer**.
 - 💬 I'm mostly active within **Phpstorm**.
 - :key: In the future i'm open to help with game mods for factorio. 
