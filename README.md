@@ -3,7 +3,7 @@
 
 
 
-- 🏢 I'm currently learning **Javascript** & **sql**.
+- 🏢 I'm currently learning **Javascript** , **sql**,**HTML5**& **CSS3**.
 - 🌱 My main goal is to become a **Full Stack Developer**.
 - 💬 I'm mostly active within **Phpstorm** & **Wampserver**.
 - :key: Make it work, make it right, make it fast. 
