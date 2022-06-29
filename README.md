@@ -1,10 +1,10 @@
 #### Hi, I'm Stefaan Beernaert. :panda_face:
-###### ⚙️ I'm a Full Stack Developer **student** in Belgium.
+###### ⚙️ I'm a Full Stack Developer in Belgium.
 
 
 
-- 🏢 I'm currently learning **Laravel** And **Php**.
-- 🌱 My main goal is to become a **Full Stack Developer**.
+- 🏢 I'm currently learning **node.js** And **Typescript**.
+- 🌱 My main goal is to be better each day.
 - 💬 I'm mostly active within **Phpstorm** & **Wampserver**.
 - :key: Make it work, make it right, make it fast. 
 
