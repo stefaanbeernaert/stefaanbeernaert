@@ -5,7 +5,7 @@
 
 - 🏢 I'm currently learning **AL** And **Typescript**.
 - 🌱 My main goal is to be better each day.
-- 💬 I'm mostly active within **Visual Studio** & **Microsoft Business Central**.
+- 💬 I'm mostly active within **Visual Studio Code** & **Microsoft Business Central**.
 - :key: Make it work, make it right, make it fast. 
 
 📬 
