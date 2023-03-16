@@ -3,9 +3,8 @@
 
 <kbd>H</kbd><kbd>E</kbd><kbd>L</kbd><kbd>L</kbd><kbd>o</kbd>
 
-- 🏢 I'm currently learning **AL**.
 - 🌱 My main goal is to be better each day.
-- 💬 I'm mostly active within **Visual Studio Code** & **Microsoft Business Central**.
+- 💬 I'm mostly active within **Php Storm** & **Laravel**.
 - :key: Make it work, make it right, make it fast. 
 
 📬 
